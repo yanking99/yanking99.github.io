@@ -70,17 +70,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>关于</title>
-      <link>https://yanking99.github.io/blog/text2/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanking99.github.io/blog/text2/</guid>
-      <description>测试
-+++ title = &amp;ldquo;关于2&amp;rdquo; date = &amp;ldquo;2014-04-09&amp;rdquo; +++
-测试</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://yanking99.github.io/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -113,6 +102,15 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://yanking99.github.io/blog/text2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanking99.github.io/blog/text2/</guid>
+      <description>我的第一个博客   先安装Git和注册github账号，并且下载Vscode   去官网下载window10-64bit的安装包，然后将安装包放置合适的位置，并配置对应的环境变量    在cmd命令行查看hugo是否安装成功hugo version 然后建立自己的网站如图 红色：要放置的目录 蓝色：执行的命令 黄色：执行成功结果   用Vsocde打开生成的网站位置，输入命令&amp;quot;hugo server&amp;quot;   </description>
     </item>
     
   </channel>
