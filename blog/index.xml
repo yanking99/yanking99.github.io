@@ -17,5 +17,16 @@
       <description>测试</description>
     </item>
     
+    <item>
+      <title>关于</title>
+      <link>https://yanking99.github.io/blog/text2/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanking99.github.io/blog/text2/</guid>
+      <description>测试
++++ title = &amp;ldquo;关于2&amp;rdquo; date = &amp;ldquo;2014-04-09&amp;rdquo; +++
+测试</description>
+    </item>
+    
   </channel>
 </rss>
